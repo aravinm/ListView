@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="food">
+        <item>Apples</item>
+        <item>Oranges</item>
+        <item>Grapes</item>
+    </string-array>
+
+</resources>
